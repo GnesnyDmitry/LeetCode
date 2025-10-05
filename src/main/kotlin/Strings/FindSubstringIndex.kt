@@ -1,4 +1,4 @@
-package org.example.Lists
+package org.example.Strings
 
 //Даны две строки — needle и haystack.
 //Требуется вернуть индекс первого вхождения подстроки needle в строку haystack.

@@ -1,4 +1,7 @@
-package org.example.Lists
+package org.example.Lists.node
+
+import org.example.Lists.ListNode
+import kotlin.text.iterator
 
 fun main() {
     // Пример: l1 = [2,4,3], l2 = [5,6,4]

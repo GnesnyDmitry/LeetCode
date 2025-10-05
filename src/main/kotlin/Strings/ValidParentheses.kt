@@ -1,4 +1,6 @@
-package org.example
+package org.example.Strings
+
+import kotlin.text.iterator
 
 //Дана строка s, содержащая только следующие символы: '(', ')', '{', '}', '[', ']'.
 //Определите, является ли входная строка валидной.
